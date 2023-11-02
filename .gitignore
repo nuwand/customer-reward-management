@@ -1,3 +1,6 @@
 # Eclipse-specific files and directories
 .settings/
 **/org.eclipse.jdt.core.prefs
+.project
+.classpath
+
